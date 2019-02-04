@@ -31,6 +31,6 @@ def main():
 		except:
 			#In case of an error
 			print('Error fetching!')
-	print("Download {} links".format(i))
+	print("Downloaded {} links".format(i))
 			
 if __name__ == '__main__' : main()
